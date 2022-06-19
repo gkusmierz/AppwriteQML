@@ -29,7 +29,7 @@
 
 import QtQuick
 import QtQuick.Window
-import AppwriteQML
+import Appwrite
 
 Window {
     width: mainScreen.width
